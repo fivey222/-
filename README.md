@@ -1,2 +1,2 @@
 # -
-![对话过程](gifhuaxiang.gif)
+![对话过程](GIFhuaxiangdou.gif)
